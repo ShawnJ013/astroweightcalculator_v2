@@ -1,0 +1,30 @@
+/* styling the body */
+
+body {
+    font: normal 1.25em Verdana, Arial, sans-serif;
+    background-color: grey;
+  	color: #333;
+  	
+}	
+
+/* Styling the Header */
+
+h4 {
+	text-align: left;
+	padding-bottom: ;
+
+}
+
+.box {
+line-height: 1;
+width: 250px;
+
+}
+
+.btn {
+width: 125px;
+height: 25px;
+color: black;
+background-color: lightblue;
+
+}
